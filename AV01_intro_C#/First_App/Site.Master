@@ -12,7 +12,7 @@
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
 
-    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 </head>
@@ -46,7 +46,8 @@
                 </button>
                 <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/">Zad1_2_3</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Zad4_Converter">Zad4</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/About">About</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Contact</a></li>
                     </ul>
@@ -54,6 +55,9 @@
             </div>
         </nav>
         <div class="container body-content">
+            <section class="row" aria-labelledby="aspnetTitle">
+                <h1>Internet Technology AV03</h1>
+            </section>
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
                 <!-- Tuka odi HTML-ot od .aspx stranicite-->
             </asp:ContentPlaceHolder>

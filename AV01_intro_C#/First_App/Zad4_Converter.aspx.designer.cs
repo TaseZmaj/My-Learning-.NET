@@ -11,43 +11,43 @@ namespace First_App
 {
 
 
-    public partial class _Default
+    public partial class Zad4_Converter
     {
 
         /// <summary>
-        /// ListaGradovi control.
+        /// ImeNaValuta control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ListBox ListaGradovi;
+        protected global::System.Web.UI.WebControls.TextBox ImeNaValuta;
 
         /// <summary>
-        /// PrikaziGrad control.
+        /// VrednostNaValuta control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button PrikaziGrad;
+        protected global::System.Web.UI.WebControls.TextBox VrednostNaValuta;
 
         /// <summary>
-        /// SelektiranGrad control.
+        /// DodadiValuta control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label SelektiranGrad;
+        protected global::System.Web.UI.WebControls.Button DodadiValuta;
 
         /// <summary>
-        /// DistancaGrad control.
+        /// ListaValuti control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label DistancaGrad;
+        protected global::System.Web.UI.WebControls.RadioButtonList ListaValuti;
     }
 }
