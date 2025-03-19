@@ -121,6 +121,7 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Images\Malicious_Tom.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -149,6 +150,8 @@
     <Content Include="Content\bootstrap-grid.rtl.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
+    <Content Include="Zad8.aspx" />
+    <Content Include="Zad7.aspx" />
     <Content Include="Zad4_Converter.aspx" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
@@ -231,6 +234,20 @@
     </Compile>
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Zad8.aspx.cs">
+      <DependentUpon>Zad8.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Zad8.aspx.designer.cs">
+      <DependentUpon>Zad8.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Zad7.aspx.cs">
+      <DependentUpon>Zad7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Zad7.aspx.designer.cs">
+      <DependentUpon>Zad7.aspx</DependentUpon>
     </Compile>
     <Compile Include="Zad4_Converter.aspx.cs">
       <DependentUpon>Zad4_Converter.aspx</DependentUpon>

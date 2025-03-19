@@ -11,79 +11,106 @@ namespace First_App
 {
 
 
-    public partial class Zad4_Converter
+    public partial class Zad8
     {
 
         /// <summary>
-        /// ImeNaValuta control.
+        /// BoiPozadina control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox ImeNaValuta;
+        protected global::System.Web.UI.WebControls.DropDownList BoiPozadina;
 
         /// <summary>
-        /// VrednostNaValuta control.
+        /// ImeFont control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox VrednostNaValuta;
+        protected global::System.Web.UI.WebControls.DropDownList ImeFont;
 
         /// <summary>
-        /// DodadiValuta control.
+        /// BoiFont control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button DodadiValuta;
+        protected global::System.Web.UI.WebControls.DropDownList BoiFont;
 
         /// <summary>
-        /// Button1 control.
+        /// GoleminaFont control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
+        protected global::System.Web.UI.WebControls.TextBox GoleminaFont;
 
         /// <summary>
-        /// ListaValuti control.
+        /// RamkaType control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList ListaValuti;
+        protected global::System.Web.UI.WebControls.RadioButtonList RamkaType;
 
         /// <summary>
-        /// BrValuti control.
+        /// Slika control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label BrValuti;
+        protected global::System.Web.UI.WebControls.CheckBox Slika;
 
         /// <summary>
-        /// Status control.
+        /// CestitkaSodrzina control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Status;
+        protected global::System.Web.UI.WebControls.TextBox CestitkaSodrzina;
 
         /// <summary>
-        /// Vrednost control.
+        /// Kreiraj control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Vrednost;
+        protected global::System.Web.UI.WebControls.Button Kreiraj;
+
+        /// <summary>
+        /// Cestitka control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel Cestitka;
+
+        /// <summary>
+        /// Poraka control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Poraka;
+
+        /// <summary>
+        /// SlikaCestitka control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image SlikaCestitka;
     }
 }
