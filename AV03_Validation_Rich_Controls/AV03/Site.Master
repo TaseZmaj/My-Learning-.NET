@@ -46,10 +46,13 @@
                 </button>
                 <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Zad1">Zad 1</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Zad2">Zad 2</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Zad3">Zad 3</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Zad3">Zad 4</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Pages/Zad1">Zad 1</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Pages/Zad2">Zad 2</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Pages/Zad3">Zad 3</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Pages/Zad4">Zad 4</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Pages/Zad5">Zad 5</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Pages/Zad6">Zad 6</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Pages/Bogati_Kontroli">Bogati Kontroli</a></li>
                     </ul>
                 </div>
             </div>

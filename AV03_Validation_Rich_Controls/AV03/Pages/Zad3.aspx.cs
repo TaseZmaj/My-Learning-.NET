@@ -13,5 +13,12 @@ namespace AV03
         {
 
         }
+
+        protected void AddBtn_Click(object sender, EventArgs e)
+        {
+            ImePredmet.Text = "Predmet:" + ImeInput.Text;
+            Ocena.Text = "Ocena: " + OcenaInput.Text;
+            Datum.Text = "Datum: " + DatumInput.Text;
+        }
     }
 }

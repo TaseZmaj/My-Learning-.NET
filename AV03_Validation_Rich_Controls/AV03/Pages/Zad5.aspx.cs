@@ -7,9 +7,14 @@ using System.Web.UI.WebControls;
 
 namespace AV03
 {
-    public partial class WebForm4 : System.Web.UI.Page
+    public partial class WebForm5 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void AddBtn_Click(object sender, EventArgs e)
         {
 
         }
