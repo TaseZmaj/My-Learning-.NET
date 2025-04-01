@@ -11,7 +11,34 @@ namespace AV03.Pages
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (!IsPostBack)
+            {
+                mvRegistracija.ActiveViewIndex = 0;
+            }
+        }
 
+        protected void NextView(object sender, EventArgs e)
+        {
+            if (mvRegistracija.ActiveViewIndex < mvRegistracija.Views.Count - 1)
+            {
+                mvRegistracija.ActiveViewIndex++;
+            }
+            else
+            {
+                mvRegistracija.ActiveViewIndex = 0;
+            }
+        }
+
+        protected void PrevView(object sender, EventArgs e)
+        {
+            if (mvRegistracija.ActiveViewIndex > 0)
+            {
+                mvRegistracija.ActiveViewIndex--;
+            }
+            else
+            {
+                mvRegistracija.ActiveViewIndex = mvRegistracija.Views.Count - 1;
+            }
         }
     }
 }
