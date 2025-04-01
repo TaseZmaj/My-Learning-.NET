@@ -18,7 +18,10 @@ namespace First_App
 
         protected void Page_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             Console.WriteLine("DA");
+=======
+>>>>>>> 518057a (Practised some .NET exercises)
             //v1 - moe
             //if (!this.IsPostBack)
             //{

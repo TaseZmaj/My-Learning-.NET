@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV01_intro_C#\\First_App\\",
+<<<<<<< HEAD
   "Documents": [],
+=======
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48C26319-6487-49AA-A1F1-9C06D3C87857}|First_App.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av01_intro_c#\\first_app\\zad8.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C26319-6487-49AA-A1F1-9C06D3C87857}|First_App.csproj|solutionrelative:zad8.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C26319-6487-49AA-A1F1-9C06D3C87857}|First_App.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av01_intro_c#\\first_app\\zad8.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{48C26319-6487-49AA-A1F1-9C06D3C87857}|First_App.csproj|solutionrelative:zad8.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C26319-6487-49AA-A1F1-9C06D3C87857}|First_App.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av01_intro_c#\\first_app\\zad7.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{48C26319-6487-49AA-A1F1-9C06D3C87857}|First_App.csproj|solutionrelative:zad7.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+>>>>>>> 518057a (Practised some .NET exercises)
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 160,
+<<<<<<< HEAD
           "SelectedChildIndex": -1,
+=======
+          "SelectedChildIndex": 1,
+>>>>>>> 518057a (Practised some .NET exercises)
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zad8.aspx",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV01_intro_C#\\First_App\\Zad8.aspx",
+              "RelativeDocumentMoniker": "Zad8.aspx",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV01_intro_C#\\First_App\\Zad8.aspx",
+              "RelativeToolTip": "Zad8.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-19T14:19:10.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zad8.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV01_intro_C#\\First_App\\Zad8.aspx.cs",
+              "RelativeDocumentMoniker": "Zad8.aspx.cs",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV01_intro_C#\\First_App\\Zad8.aspx.cs",
+              "RelativeToolTip": "Zad8.aspx.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAawDkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:29:45.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zad7.aspx",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV01_intro_C#\\First_App\\Zad7.aspx",
+              "RelativeDocumentMoniker": "Zad7.aspx",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV01_intro_C#\\First_App\\Zad7.aspx",
+              "RelativeToolTip": "Zad7.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-19T14:56:47.324Z",
+              "EditorCaption": ""
+>>>>>>> 518057a (Practised some .NET exercises)
             }
           ]
         }
