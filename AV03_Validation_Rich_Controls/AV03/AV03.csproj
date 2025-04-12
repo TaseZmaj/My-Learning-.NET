@@ -120,6 +120,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Pages\Bogati_Kontroli.aspx" />
+    <Content Include="Pages\Zad1_Vezb.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -206,6 +207,13 @@
     </Compile>
     <Compile Include="Pages\Bogati_Kontroli.aspx.designer.cs">
       <DependentUpon>Bogati_Kontroli.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Zad1_Vezb.aspx.cs">
+      <DependentUpon>Zad1_Vezb.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Zad1_Vezb.aspx.designer.cs">
+      <DependentUpon>Zad1_Vezb.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">

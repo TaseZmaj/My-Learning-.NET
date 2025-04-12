@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av03_validation_rich_controls\\av03\\pages\\bogati_kontroli.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|solutionrelative:pages\\bogati_kontroli.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av03_validation_rich_controls\\av03\\pages\\zad6.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|solutionrelative:pages\\zad6.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\pages\\bogati_kontroli.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|solutionrelative:pages\\bogati_kontroli.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av03_validation_rich_controls\\av03\\pages\\zad2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|solutionrelative:pages\\zad2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av03_validation_rich_controls\\av03\\pages\\zad5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|solutionrelative:pages\\zad5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av03_validation_rich_controls\\av03\\pages\\zad3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|solutionrelative:pages\\zad3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av03_validation_rich_controls\\av03\\pages\\zad4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|solutionrelative:pages\\zad4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av03_validation_rich_controls\\av03\\pages\\zad1_vezb.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC6A7362-B93C-46C3-A888-329191650065}|AV03.csproj|solutionrelative:pages\\zad1_vezb.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 132,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,27 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bogati_Kontroli.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Bogati_Kontroli.aspx.cs",
-              "RelativeDocumentMoniker": "Pages\\Bogati_Kontroli.aspx.cs",
-              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Bogati_Kontroli.aspx.cs",
-              "RelativeToolTip": "Pages\\Bogati_Kontroli.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:23:21.024Z"
+              "DocumentIndex": 0,
+              "Title": "Zad6.aspx",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad6.aspx",
+              "RelativeDocumentMoniker": "Pages\\Zad6.aspx",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad6.aspx",
+              "RelativeToolTip": "Pages\\Zad6.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-12T10:34:22.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bogati_Kontroli.aspx",
-              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Bogati_Kontroli.aspx",
-              "RelativeDocumentMoniker": "Pages\\Bogati_Kontroli.aspx",
-              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Bogati_Kontroli.aspx",
-              "RelativeToolTip": "Pages\\Bogati_Kontroli.aspx",
+              "DocumentIndex": 2,
+              "Title": "Zad5.aspx",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad5.aspx",
+              "RelativeDocumentMoniker": "Pages\\Zad5.aspx",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad5.aspx",
+              "RelativeToolTip": "Pages\\Zad5.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-01T12:23:06.318Z",
+              "WhenOpened": "2025-04-12T10:31:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zad4.aspx",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad4.aspx",
+              "RelativeDocumentMoniker": "Pages\\Zad4.aspx",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad4.aspx",
+              "RelativeToolTip": "Pages\\Zad4.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-12T10:31:08.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zad3.aspx",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad3.aspx",
+              "RelativeDocumentMoniker": "Pages\\Zad3.aspx",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad3.aspx",
+              "RelativeToolTip": "Pages\\Zad3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-12T10:29:48.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zad1_Vezb.aspx",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad1_Vezb.aspx",
+              "RelativeDocumentMoniker": "Pages\\Zad1_Vezb.aspx",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad1_Vezb.aspx",
+              "RelativeToolTip": "Pages\\Zad1_Vezb.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-12T10:29:32.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zad2.aspx",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad2.aspx",
+              "RelativeDocumentMoniker": "Pages\\Zad2.aspx",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV03_Validation_Rich_Controls\\AV03\\Pages\\Zad2.aspx",
+              "RelativeToolTip": "Pages\\Zad2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-12T10:28:45.153Z",
               "EditorCaption": ""
             }
           ]
