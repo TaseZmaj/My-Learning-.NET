@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|solutionrelative:pages\\zad1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av04_state_management\\av04\\pages\\plakjanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\pages\\plakjanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|solutionrelative:pages\\plakjanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av04_state_management\\av04\\pages\\proizvodi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\pages\\proizvodi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|solutionrelative:pages\\proizvodi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av04_state_management\\av04\\pages\\proizvodi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\pages\\proizvodi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|solutionrelative:pages\\proizvodi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av04_state_management\\av04\\pages\\plakjanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\pages\\plakjanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|solutionrelative:pages\\plakjanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av04_state_management\\av04\\pages\\zad1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\pages\\zad1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAAC8C3A-34DD-4C91-8FAD-E0F3CA843398}|AV04.csproj|solutionrelative:pages\\zad1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -61,34 +61,7 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-04-12T10:58:44.558Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Plakjanje.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\Pages\\Plakjanje.aspx.cs",
-              "RelativeDocumentMoniker": "Pages\\Plakjanje.aspx.cs",
-              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\Pages\\Plakjanje.aspx.cs",
-              "RelativeToolTip": "Pages\\Plakjanje.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T12:27:04.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Plakjanje.aspx",
-              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\Pages\\Plakjanje.aspx",
-              "RelativeDocumentMoniker": "Pages\\Plakjanje.aspx",
-              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\Pages\\Plakjanje.aspx",
-              "RelativeToolTip": "Pages\\Plakjanje.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-12T12:20:19.34Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -100,6 +73,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plakjanje.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\Pages\\Plakjanje.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\Plakjanje.aspx.cs",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\Pages\\Plakjanje.aspx.cs",
+              "RelativeToolTip": "Pages\\Plakjanje.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:27:04.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Plakjanje.aspx",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\Pages\\Plakjanje.aspx",
+              "RelativeDocumentMoniker": "Pages\\Plakjanje.aspx",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\Pages\\Plakjanje.aspx",
+              "RelativeToolTip": "Pages\\Plakjanje.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-12T12:20:19.34Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Proizvodi.aspx.cs",
               "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV04_State_Management\\AV04\\Pages\\Proizvodi.aspx.cs",
@@ -108,8 +105,7 @@
               "RelativeToolTip": "Pages\\Proizvodi.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:04:58.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:04:58.424Z"
             },
             {
               "$type": "Document",
@@ -121,8 +117,7 @@
               "RelativeToolTip": "Pages\\Zad1.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:01:32.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:01:32.05Z"
             }
           ]
         }

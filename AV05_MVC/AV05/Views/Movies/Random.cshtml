@@ -1,0 +1,28 @@
+﻿<!-- Ova e namespace koj go definiras za modelot za da mozes da pristapuvas
+    do podatocite-->
+<!-- majmuncheto e Razor sintaksa i ni ovozmozuva da pishuvame C# kod vo
+    html pages-->
+@model AV05.Models.MovieRentals
+@{
+    ViewBag.Title = "Random";
+}
+
+<h3>Movie name: @Model.movie.Name</h3>
+<h3>Movie Rating: @Model.movie.Rating</h3>
+<img style="width:200px" src="@Model.movie.ImgUrl"/>
+
+<p>Clients: </p>
+<ul>
+    @{
+        int i = 0;
+        foreach (var client in Model.clients)
+        {
+            <li>
+                <a href="ShowClient/@i">@client.Name, @client.MovieCard</a>
+                <br />
+            </li>
+            i++;
+        }
+    }
+
+</ul>

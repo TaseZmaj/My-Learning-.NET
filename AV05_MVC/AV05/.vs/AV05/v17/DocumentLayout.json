@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av05_mvc\\av05\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|solutionrelative:views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av05_mvc\\av05\\views\\movies\\showclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|solutionrelative:views\\movies\\showclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av05_mvc\\av05\\models\\movierentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|solutionrelative:models\\movierentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av05_mvc\\av05\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av05_mvc\\av05\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|c:\\users\\stefa\\vscode\\internettehnologii\\av05_mvc\\av05\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402337C4-562F-4DBC-ABBC-26C229DD6398}|AV05.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 130,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowClient.cshtml",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\Views\\Movies\\ShowClient.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\ShowClient.cshtml",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\Views\\Movies\\ShowClient.cshtml",
+              "RelativeToolTip": "Views\\Movies\\ShowClient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T14:06:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieRentals.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\Models\\MovieRentals.cs",
+              "RelativeDocumentMoniker": "Models\\MovieRentals.cs",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\Models\\MovieRentals.cs",
+              "RelativeToolTip": "Models\\MovieRentals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:45:07.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Random.cshtml",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\Views\\Movies\\Random.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Random.cshtml",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\Views\\Movies\\Random.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Random.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T13:43:58.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:35:50.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:39:36.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\stefa\\VSCODE\\InternetTehnologii\\AV05_MVC\\AV05\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T13:10:11.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
